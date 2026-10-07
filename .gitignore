@@ -1,5 +1,4 @@
 __pycache__/
-*.py[cod]
-*$py.class
-map.html
-*.json
+*.pyc
+venv/
+.env
